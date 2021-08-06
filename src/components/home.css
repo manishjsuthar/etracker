@@ -1,0 +1,22 @@
+.head1 {
+    font-size: 4rem;
+    margin: 60px;
+    text-align: center;
+}
+.head2 {
+    color: yellow;
+}
+
+.headimage {
+    text-align: center;
+    margin: 40px;
+}
+
+.imgimage {
+    width: 25%;
+}
+
+.tablex {
+    width: 50%;
+    margin-left: 25%;
+}
